@@ -1,4 +1,7 @@
 # vim的模式
+
+![vim键盘图](./vim.gif)
+
 分为：Normal 和 Insert
 
 Normal模式下无法输入，Insert模式下无法移动光标（在没有方向键的前提下）。
@@ -18,6 +21,14 @@ Normal模式下无法输入，Insert模式下无法移动光标（在没有方�
 |复制当前行|yy|
 |粘贴|p|
 |删除当前行|dd|
+|删除光标字符|x|
+|删除光标前的字符|X|
+|删除光标字符进入insert|s|
+|删除光标所在行进入insert|S|
+|替换一个字符|r|
+|替换多个字符|R|
+|undo|u|
+|redo|ctrl+r|
 
 ## Insert模式
 
