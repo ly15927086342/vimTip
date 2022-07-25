@@ -35,3 +35,12 @@
 |创建文件夹（在file explorer中）|shift+a|
 |重命名文件/夹|r|
 |删除文件/夹|d|
+
+## 操作多个vscode窗口
+
+|功能|快捷键|
+|:--|:--|
+|打开新的vscode窗口|shift+command+n|
+|选择工作区|ctrl+r|
+|切换窗口|command+`|
+|关闭vscode窗口|shift+command+w|
