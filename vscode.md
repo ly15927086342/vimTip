@@ -44,3 +44,20 @@
 |选择工作区|ctrl+r|
 |切换窗口|command+`|
 |关闭vscode窗口|shift+command+w|
+
+`tip`分屏无法切换
+
+## 搜索
+
+|功能|快捷键|
+|:--|:--|
+|搜索当前文件的定义|command+t|
+|查看当前文件的结构|command+shift+o|
+|查看当前文件的结构，按类别分组|command+shift+o+:|
+|搜索vscode配置|command+shift+p|
+|快速文件导航|command+p|
+|切换文件|ctrl+tab|
+|全局搜索|command+shift+f|
+|切换聚焦区|command+up/down|
+|触发查询条件模块|command+shift+j|
+
