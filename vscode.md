@@ -2,14 +2,6 @@
 
 [keyboard-shortcuts-macos.pdf](./keyboard-shortcuts-macos.pdf)
 
-## 终端
-
-|功能|快捷键|
-|:--|:--|
-|打开/关闭终端|ctrl+`|
-|新建窗口|command+\|
-|关闭窗口|command+w|
-
 ## 通过vim命令调用vscode命令
 
 在setting.json中vim.normalModeKeyBindings下，配置
@@ -43,7 +35,7 @@
 |打开新的vscode窗口|shift+command+n|
 |选择工作区|ctrl+r|
 |切换窗口|command+`|
-|关闭vscode窗口|shift+command+w|
+|关闭窗口|command+w|
 
 `tip`分屏无法切换
 
@@ -61,3 +53,34 @@
 |切换聚焦区|command+up/down|
 |触发查询条件模块|command+shift+j|
 
+## 编码
+
+|功能|快捷键|
+|:--|:--|
+|代码提示|command+.|
+|参数提示|command+shift+空格|
+|建议提示|command+i|
+|移动行|option+up/down|
+|增加行|command+回车|
+|删除前面的单词|option+删除|
+|选中所有单词|command+f2|
+
+## 重构
+
+|功能|快捷键|
+|:--|:--|
+|重构提示|command+.|
+|Abracadabra插件||
+
+## 终端
+
+|功能|快捷键|
+|:--|:--|
+|打开/关闭终端|ctrl+`|
+|分屏|command+\|
+|清空终端|command+k|
+|切换分屏|command+[|
+|关闭窗口|shift+option+q|
+|新建窗口|shift+option+n|
+|切换窗口|shift+command+[|
+|打开终端程序|shift+command+c|
